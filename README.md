@@ -9,10 +9,10 @@ This repository contains a Jupyter notebook with detailed survival analysis usin
 
 ## Screenshots
 
-For users who prefer to view the results as images rather than interacting with the Jupyter notebook, screenshots of key outputs are available in the `screenshots` branch. These screenshots provide a visual representation of the results and plots from the notebook.
+For users who prefer to view the results as images rather than interacting with the Jupyter notebook, screenshots of key outputs are available in the `Damianbrian patch-1` branch. These screenshots provide a visual representation of the results and plots from the notebook.
 
 To access the screenshots:
-- Switch to the `screenshots` branch in this repository.
+- Switch to the `Damianbrian patch-1` branch in this repository.
 - The branch contains images of the Kaplan-Meier survival curve, Nelson-Aalen cumulative hazard plots, and other visualizations.
 
 ## How to Access the Jupyter Notebook
